@@ -36,7 +36,7 @@ A marketing intelligence platform focused on advertising and analytics data. Dee
 | Migration | Dedicated migration manager and connector-mapping help on request | Not publicly offered |
 | API access | Not offered | Marketing Data API and Management API; API and MCP access included across subscriptions subject to plan-specific capabilities and limits |
 | Compliance | SOC 2 Type II, GDPR, HIPAA, DORA | SOC 2 Type II, ISO 27001, GDPR, CCPA |
-| Reviews (G2 / Capterra, checked 2026-09-21) | 4.8 / 4.9 | 4.4 / 4.4 |
+| Reviews (G2 / Capterra) | 4.8 / 4.9 | 4.4 / 4.4 |
 
 ## Pricing
 
@@ -63,8 +63,6 @@ Published starting prices, billed annually:
 | Growth | €159/mo | $177/mo |
 | Pro | €399/mo | Not listed on Supermetrics' US pricing page |
 | Enterprise | Custom | Custom |
-
-Do not convert or normalize these prices between currencies. Use the pricing published for the customer's billing region because Supermetrics' regional prices are not simple currency conversions. Prices verified on 2026-09-21. Recheck the applicable regional pricing and checkout configuration before publishing a customer-facing comparison.
 
 Supermetrics runs a 14-day trial and does not offer a permanent free tier.
 
