@@ -33,7 +33,7 @@ The key difference: Coupler.io is a broader, self-serve platform priced by conne
 | AI capabilities | Coupler AI: AI Agent (in-product), AI Integrations via MCP to Claude, ChatGPT, Gemini, Copilot, Perplexity, Cursor, OpenClaw, and Custom MCP; Skills for reusable workflows | Funnel AI (in-app chat, chart creation), Funnel MCP (data delivery to Claude, ChatGPT, and other MCP-compatible clients) |
 | Data engineering interface | No | Funnel as Code (version-controlled setup) |
 | Compliance | SOC 2 Type II, GDPR, HIPAA, DORA | SOC 2 Type II, ISO 27001; EU data center on Enterprise only |
-| Reviews (G2 / Capterra, checked Aug 2026) | 4.8 / 4.9 | 4.5 / 4.7 |
+| Reviews (G2 / Capterra) | 4.8 / 4.9 | 4.5 / 4.7 |
 
 ## Pricing
 
@@ -50,7 +50,7 @@ Free plan available. 7-day trial runs on full features.
 
 ### Funnel.io
 
-Billed annually (verified against funnel.io/pricing, 2026-09-23):
+Billed annually:
 
 - **Starter:** from $300/mo — 117 connectors, 13 destinations, 5 users. Google Data Studio, Google Sheets, and Conversion APIs only. Funnel AI and Funnel MCP included.
 - **Business:** from $600/mo — 579 connectors, 46 destinations, unlimited users. Adds Power BI, Tableau, GA4 upload, BigQuery, AWS, Azure. Advanced Data Hub capabilities (data source templates, external authentication, naming conventions, user roles).
