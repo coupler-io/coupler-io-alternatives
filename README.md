@@ -13,9 +13,16 @@ Source of truth for Coupler.io competitor comparisons. Each article is one markd
 
 ## Catalog
 
-| File | Competitor | Covers |
-| --- | --- | --- |
-| [coupler-io-vs-supermetrics.md](coupler-io-vs-supermetrics.md) | Supermetrics | Positioning, feature differences, pricing and add-ons, plan mapping, AI capabilities, migration, fit, advantages, limitations. Prices and G2/Capterra scores checked 2026-09-21. |
+| File | Competitor |
+| --- | --- |
+| [coupler-io-vs-supermetrics.md](coupler-io-vs-supermetrics.md) | Coupler.io vs Supermetrics |
+| [coupler-io-vs-adverity.md](coupler-io-vs-adverity.md) | Coupler.io vs Adverity |
+| [coupler-io-vs-coefficient-io.md](coupler-io-vs-coefficient-io.md) | Coupler.io vs Coefficient.io |
+| [coupler-io-vs-fivetran.md](coupler-io-vs-fivetran.md) | Coupler.io vs Fivetran |
+| [coupler-io-vs-funnel-io.md](coupler-io-vs-funnel-io.md) | Coupler.io vs Funnel.io |
+| [coupler-io-vs-owox.md](coupler-io-vs-owox.md) | Coupler.io vs Owox |
+| [coupler-io-vs-porter-metrics.md](coupler-io-vs-porter-metrics.md) | Coupler.io vs PorterMetrics |
+| [coupler-io-vs-skyvia.md](coupler-io-vs-skyvia.md) | Coupler.io vs Skyvia |
 
 ## Article shape
 
